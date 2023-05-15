@@ -6,7 +6,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Luisgmr/Workshop-Springboot-JPA?label=tamanho%20do%20reposit%C3%B3rio">
 
-  <a href="https://github.com/GuilhermeManzano/projeto-base-conhecimento/master">
+  <a href="https://github.com/Luisgmr/Workshop-Springboot-JPA/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Luisgmr/Workshop-Springboot-JPA?label=%C3%BAltimo%20commit">
   </a>
 </p>
