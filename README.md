@@ -1,5 +1,5 @@
 <h1 align="center">Workshop-Springboot-JPA</h1>
-<p align="center">Projeto teste em Java utilizando JPA (Hibernate) e SpringBoot 3</p>
+<p align="center">Projeto back-end de uma loja em Java utilizando JPA (Hibernate) e SpringBoot 3</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Luisgmr/Workshop-Springboot-JPA?label=linguagens%20de%20programa%C3%A7%C3%A3o">
